@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for Outdoor_Tracking
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -324,6 +324,10 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for Outdoor_Tracking\Design Rule Check - nRF9161.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Outdoor_Tracking\Design Rule Check - Outdoor_Tracker_v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -335,7 +339,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Outdoor_Tracking
 
 [OutputGroup1]
 Name=Netlist Outputs
