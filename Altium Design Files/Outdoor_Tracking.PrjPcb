@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for Outdoor_Tracking
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Outdoor_Tracking
 
 [Preferences]
 PrefsVaultGUID=
@@ -320,6 +321,18 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=F8B3D04D-38BD-4F3A-A529-05E299C8557D
+Description=Outdoor_Tracking
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=R3|UniqueId=\XQWADZTH\FYWUXBVL|Kind=1|AlternatePart= 
+Variation2=Designator=R4|UniqueId=\XQWADZTH\CALEYUFI|Kind=1|AlternatePart= 
+Variation3=Designator=U22|UniqueId=\TBEZOZNO\CIZVTEJN|Kind=1|AlternatePart= 
+Variation4=Designator=R82|UniqueId=\AYKCNYRI\DBRIQNNI|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Outdoor_Tracking\Design Rule Check - nRF9161.html
 DItemRevisionGUID=
@@ -339,7 +352,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for Outdoor_Tracking
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
